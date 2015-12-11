@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d5632001-a>
+  <sz-segment-values_-dESC2000></sz-segment-values_-dESC2000>
+  <CRequiredToBe></CRequiredToBe>
+  <CTypeOfValue></CTypeOfValue>
+  <sz-identifier2nd-item_-lITM>CFG-CYL</sz-identifier2nd-item_-lITM>
+  <CNumericYN></CNumericYN>
+  <mn-parent-segment-number_-pEL negative="false" decimal-position="0"
+                                 currency-decimals="0" zero="true">
+    <currency-code></currency-code>
+    <value>10</value>
+  </mn-parent-segment-number_-pEL>
+  <CErrorFlag_EV01></CErrorFlag_EV01>
+  <sz-previous-question-answer_-sGVL>FE13</sz-previous-question-answer_-sGVL>
+  <sz-cost-center_-mCU></sz-cost-center_-mCU>
+  <sz-value-default_-dVAL></sz-value-default_-dVAL>
+</d5632001-a>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<baan-sales-order-request>
+  <sz-order-type>SG</sz-order-type>
+  <sz-company-key-order-no>00100</sz-company-key-order-no>
+  <CErrorCode></CErrorCode>
+  <sz-baan-order-number>040054491</sz-baan-order-number>
+  <mn-document-order-invoice-e negative="false" decimal-position="0"
+                               currency-decimals="0" zero="true">
+    <currency-code></currency-code>
+    <value>1674</value>
+  </mn-document-order-invoice-e>
+</baan-sales-order-request>

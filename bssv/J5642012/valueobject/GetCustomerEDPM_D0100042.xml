@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<get-customer-eDPM_-d0100042>
+  <CActionCode>I</CActionCode>
+  <sz-error-message-iD></sz-error-message-iD>
+  <CBatchProcessingMode></CBatchProcessingMode>
+  <sz-company></sz-company>
+  <CSuppressErrorMessage>1</CSuppressErrorMessage>
+  <mn-customer-number negative="false" decimal-position="0"
+                      currency-decimals="0" zero="true">
+    <currency-code></currency-code>
+    <value>10001533</value>
+  </mn-customer-number>
+</get-customer-eDPM_-d0100042>
